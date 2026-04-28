@@ -4,7 +4,7 @@ Jefferson Gómez Ureña [![LinkedIn](https://img.icons8.com/color/48/linkedin.pn
 
 • Software Developer and Systems Engineering student with a focus on Full Stack Development. Passionate about building efficient, scalable applications and solving real-world problems through technology.
 
-• Check out my [Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white) to explore my projects and experience.
+• Check out my [![Portfolio](https://img.icons8.com/fluency/48/source-code.png) Portfolio](https://portafoliojgu.vercel.app) to explore my projects and experience.
 
 • TechStack: `Python` , `JavaScript`, `TypeScript`, `Java`, `C#`, `SQL`, `HTML`, `CSS`, `React`, `Node.js`, `.NET`, `MySQL`, `PostgreSQL`, `SQL Server`, `Git`, `GitHub`
 
