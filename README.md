@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jefferson%20Gómez&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Systems%20Engineering%20Student&descAlignY=58&descSize=18&descColor=a0c4ff" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jefferson%20Gómez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffersongomez7173/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jeffersongomez.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafoliojgu.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-JeffersonGomez07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeffersonGomez07)
 
 </div>
