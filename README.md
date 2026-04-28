@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```typescript
 const jefferson = {
@@ -26,7 +26,7 @@ const jefferson = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -60,7 +60,7 @@ const jefferson = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -76,12 +76,6 @@ const jefferson = {
 </div>
 
 ---
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always open to interesting projects, collaborations, or just a good tech conversation.
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffersongomez7173/)
 
